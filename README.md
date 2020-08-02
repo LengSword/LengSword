@@ -16,4 +16,13 @@
 <!-- waka-box end -->
 
 <!-- steam-box start -->
+#### <a href="https://gist.github.com/799eac01dfd14ef60c1fe78383e9c03d" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🔫 Counter-Strike: Global Offensive  🕘 11 hrs 59 mins
+🎮 Left 4 Dead 2                     🕘 7 hrs 39 mins
+💻 Wallpaper Engine                  🕘 7 hrs 0 mins
+🎮 Dota 2                            🕘 1 hrs 28 mins
+🎮 Mirror                            🕘 1 hrs 22 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
