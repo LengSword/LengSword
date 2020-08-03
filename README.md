@@ -13,6 +13,10 @@
 
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/LengSword)
 
+<table>
+<tr>
+<td valign="top" width="50%">
+  
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/982d6c8154166c7c8c6fcb5954a68e91" target="_blank">📊 Weekly development breakdown</a>
 ```text
@@ -22,6 +26,9 @@ YAML     🕓 3m  ███▎░░░░░░░░░░░░░░░░�
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
+
+</td>
+<td valign="top" width="50%">
 
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/799eac01dfd14ef60c1fe78383e9c03d" target="_blank">🎮 Steam playtime leaderboard</a>
@@ -34,3 +41,7 @@ YAML     🕓 3m  ███▎░░░░░░░░░░░░░░░░�
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
+
+</td>
+</tr>
+</table>
