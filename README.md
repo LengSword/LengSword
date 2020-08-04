@@ -13,7 +13,9 @@
 
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/LengSword)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LengSword&show_icons=true&theme=cobalt)
+---
+
+![LengSword's github stats](https://github-readme-stats.vercel.app/api?username=LengSword&show_icons=true&theme=cobalt)
 
 <table>
 <tr>
