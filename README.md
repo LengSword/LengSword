@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/LengSword/count.svg)
+
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/macOS-Mojava-lightgray?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
