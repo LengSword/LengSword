@@ -43,7 +43,7 @@ Python      🕓 18m   █▏░░░░░░░░░░░░░░░░░
 ```text
 🔫 Counter-Strike: Global Offensive  🕘 11 hrs 59 mins
 🎮 Left 4 Dead 2                     🕘 7 hrs 39 mins
-💻 Wallpaper Engine                  🕘 7 hrs 0 mins
+💻 Wallpaper Engine                  🕘 7 hrs 28 mins
 🎮 Dota 2                            🕘 1 hrs 28 mins
 🎮 Mirror                            🕘 1 hrs 22 mins
 ```
