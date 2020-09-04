@@ -1,7 +1,18 @@
 ![Visitor Count](https://profile-counter.glitch.me/LengSword/count.svg)
 
-
 [![LengSword's github stats](https://github-readme-stats.vercel.app/api?username=LengSword&show_icons=true&theme=cobalt)](https://github.com/LengSword)
+
+<table>
+<tr>
+<td valign="top" width="100%">
+  
+#### <a href="https://codestats.net/users/LengSword" target="_blank">📊 Code::Stats history graph</a>
+
+![LengSword's Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/LengSword?width=850&height=300&timezone=08:00&history_days=14&max_languages=12&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","00897b","b276b2","ffc0cb","cddc39","7e57c2","bdbdbd"])
+
+</td>
+</tr>
+</table>
 
 #### Platform&Tools
 
@@ -17,20 +28,6 @@
 #### Console&Game
 
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/LengSword)
-
----
-
-<table>
-<tr>
-<td valign="top" width="100%">
-  
-#### <a href="https://codestats.net/users/LengSword" target="_blank">📊 Code::Stats history graph</a>
-
-[![LengSword's Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/LengSword?width=850&height=300&timezone=08:00&history_days=14&max_languages=12&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","00897b","b276b2","ffc0cb","cddc39","7e57c2","bdbdbd"])](https://codestats.net/users/LengSword)
-
-</td>
-</tr>
-</table>
 
 <table>
 <tr>
