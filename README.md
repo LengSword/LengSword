@@ -20,7 +20,6 @@
 
 ---
 
-
 <table>
 <tr>
 <td valign="top" width="100%">
@@ -31,9 +30,11 @@
 
 </td>
 </tr>
+</table>
 
+<table>
 <tr>
-<td valign="top" width="100%">
+<td valign="top">
   
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/799eac01dfd14ef60c1fe78383e9c03d" target="_blank">🎮 Steam playtime leaderboard</a>
