@@ -1,5 +1,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/LengSword/count.svg)
 
+
+[![LengSword's github stats](https://github-readme-stats.vercel.app/api?username=LengSword&show_icons=true&theme=cobalt)](https://github.com/LengSword)
+
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/macOS-Mojava-lightgray?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
@@ -17,27 +20,21 @@
 
 ---
 
-[![LengSword's github stats](https://github-readme-stats.vercel.app/api?username=LengSword&show_icons=true&theme=cobalt)](https://github.com/LengSword)
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
   
-<!-- waka-box start -->
-#### <a href="https://gist.github.com/982d6c8154166c7c8c6fcb5954a68e91" target="_blank">📊 Weekly development breakdown</a>
-```text
-Objective-J 🕓 4h29m █████████████████▎░░░░░░░░░ 64.3%
-Other       🕓 58m   ███▊░░░░░░░░░░░░░░░░░░░░░░░ 13.9%
-INI         🕓 38m   ██▌░░░░░░░░░░░░░░░░░░░░░░░░  9.3%
-JSON        🕓 26m   █▋░░░░░░░░░░░░░░░░░░░░░░░░░  6.4%
-Python      🕓 18m   █▏░░░░░░░░░░░░░░░░░░░░░░░░░  4.3%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
+#### <a href="https://codestats.net/users/LengSword" target="_blank">📊 Code::Stats history graph</a>
+
+[![LengSword's Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/LengSword?width=850&height=300&timezone=08:00&history_days=14&max_languages=12&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","00897b","b276b2","ffc0cb","cddc39","7e57c2","bdbdbd"])](https://codestats.net/users/LengSword)
 
 </td>
-<td valign="top" width="50%">
+</tr>
 
+<tr>
+<td valign="top" width="100%">
+  
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/799eac01dfd14ef60c1fe78383e9c03d" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
@@ -53,5 +50,3 @@ Python      🕓 18m   █▏░░░░░░░░░░░░░░░░░
 </td>
 </tr>
 </table>
-
-[![LengSword's Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/LengSword?width=850&height=300&timezone=08:00&history_days=14&max_languages=12&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","00897b","b276b2","ffc0cb","cddc39","7e57c2","bdbdbd"])](https://codestats.net/users/LengSword)
