@@ -1,5 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/LengSword/count.svg)
-
 [![LengSword's github stats](https://github-readme-stats.vercel.app/api?username=LengSword&show_icons=true&theme=cobalt)](https://github.com/LengSword)
 
 #### Platform&Tools
@@ -12,10 +10,6 @@
 
 [![](https://img.shields.io/badge/-Python-003545?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-JavaScript-4fc08d?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-
-#### Console&Game
-
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/LengSword)
 
 <table>
 <tr>
