@@ -14,7 +14,7 @@
 💻 Wallpaper Engine                 🕘 8 hrs 8 mins
 🧟 Left 4 Dead 2                    🕘 7 hrs 39 mins
 ⚔️ Dota 2                           🕘 1 hrs 28 mins
-🎮 Mirror                           🕘 1 hrs 22 mins
+🎮 Aim Lab                          🕘 1 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
