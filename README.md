@@ -11,7 +11,7 @@
 #### <a href="https://gist.github.com/799eac01dfd14ef60c1fe78383e9c03d" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 11 hrs 59 mins
-💻 Wallpaper Engine                 🕘 8 hrs 38 mins
+💻 Wallpaper Engine                 🕘 9 hrs 39 mins
 🧟 Left 4 Dead 2                    🕘 7 hrs 39 mins
 🎮 Aim Lab                          🕘 6 hrs 24 mins
 ⚔️ Dota 2                           🕘 1 hrs 28 mins
