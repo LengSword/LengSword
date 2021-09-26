@@ -14,7 +14,7 @@
 💻 Wallpaper Engine                 🕘 9 hrs 41 mins
 🧟 Left 4 Dead 2                    🕘 7 hrs 39 mins
 🎮 Aim Lab                          🕘 6 hrs 24 mins
-🎮 Fall Guys: Ultimate Knockout     🕘 2 hrs 46 mins
+🎮 Fall Guys: Ultimate Knockout     🕘 3 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
