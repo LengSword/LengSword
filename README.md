@@ -12,7 +12,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 11 hrs 59 mins
 💻 Wallpaper Engine                 🕘 9 hrs 41 mins
-🎮 Fall Guys: Ultimate Knockout     🕘 7 hrs 42 mins
+🎮 Fall Guys: Ultimate Knockout     🕘 8 hrs 13 mins
 🧟 Left 4 Dead 2                    🕘 7 hrs 39 mins
 🎮 Aim Lab                          🕘 6 hrs 24 mins
 ```
