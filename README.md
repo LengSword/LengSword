@@ -11,8 +11,8 @@
 #### <a href="https://gist.github.com/799eac01dfd14ef60c1fe78383e9c03d" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 11 hrs 59 mins
+🎮 Fall Guys: Ultimate Knockout     🕘 10 hrs 12 mins
 💻 Wallpaper Engine                 🕘 9 hrs 41 mins
-🎮 Fall Guys: Ultimate Knockout     🕘 8 hrs 43 mins
 🧟 Left 4 Dead 2                    🕘 7 hrs 39 mins
 🎮 Aim Lab                          🕘 6 hrs 24 mins
 ```
