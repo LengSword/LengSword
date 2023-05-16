@@ -5,4 +5,4 @@
 [![General Skills](https://skillicons.dev/icons?i=git,docker,vscode,linux)](https://skillicons.dev)
 
 
-<img src="https://raw.githubusercontent.com/LengSword/LengSword/monkeytype-readme/monkeytype-readme-lb-pb.svg" alt="My Monkeytype profile" />
+<img src="https://raw.githubusercontent.com/LengSword/LengSword/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
