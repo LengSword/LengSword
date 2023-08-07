@@ -1,6 +1,6 @@
-[![Front-end Skills](https://skillicons.dev/icons?i=js,ts,vue,vite,nodejs)](https://skillicons.dev)
+[![Front-end Skills](https://skillicons.dev/icons?i=js,ts,vue,vite)](https://skillicons.dev)
 
-[![Back-end Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![Back-end Skills](https://skillicons.dev/icons?i=py,go)](https://skillicons.dev)
 
 [![General Skills](https://skillicons.dev/icons?i=git,docker,vscode,linux)](https://skillicons.dev)
 
